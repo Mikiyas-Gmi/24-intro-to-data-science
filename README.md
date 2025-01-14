@@ -25,3 +25,5 @@ sessions 6-10
 #### Session 10:
 - Working with web APIs (e.g. scraping YouTube comments, OpenWeather API v2),
 - spotipy library - working with a dedicated library for Spotify API interactions.<br><br>
+
+hi this is mikiyas and i am happy to start learning IDS
